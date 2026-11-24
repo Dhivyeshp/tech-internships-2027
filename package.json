@@ -1,0 +1,11 @@
+{
+  "name": "tech-internships-2027",
+  "private": true,
+  "type": "module",
+  "description": "Auto-updated list of tech internships and new grad roles",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "check": "node scripts/update.mjs --dry-run"
+  }
+}

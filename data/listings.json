@@ -1,0 +1,2893 @@
+{
+  "listings": [
+    {
+      "key": "greenhouse:affirm:8201469003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Remote US"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-21"
+    },
+    {
+      "key": "greenhouse:waymo:8401116",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Agentic AI",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-19"
+    },
+    {
+      "key": "greenhouse:airbnb:8360478",
+      "ats": "greenhouse",
+      "slug": "airbnb",
+      "company": "Airbnb",
+      "title": "Software Engineering Intern (BS/MS)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-18"
+    },
+    {
+      "key": "greenhouse:twitch:8949388002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I, Commerce",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-18"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5274037007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Machine Learning Engineer Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Santa Ana, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-17"
+    },
+    {
+      "key": "lever:zoox:6a2a0d85-f466-4177-8236-eac6e2df2e93",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "UX Designer Intern [Summer 2027]",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-17"
+    },
+    {
+      "key": "greenhouse:roblox:8384186",
+      "ats": "greenhouse",
+      "slug": "roblox",
+      "company": "Roblox",
+      "title": "[2027] Data Scientist - PhD Early Career - Safety",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "San Mateo, CA, United States"
+      ],
+      "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-16"
+    },
+    {
+      "key": "greenhouse:twitch:8943553002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-13"
+    },
+    {
+      "key": "greenhouse:affirm:8181183003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Remote US"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-12"
+    },
+    {
+      "key": "greenhouse:spacex:8939697002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Aerospace Software (Starfall)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-12"
+    },
+    {
+      "key": "lever:zoox:0f42ac76-3821-4805-8b59-446477d1e1db",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "Data Scientist Intern [Summer 2027]",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-12"
+    },
+    {
+      "key": "greenhouse:rubrik:8346967",
+      "ats": "greenhouse",
+      "slug": "rubrik",
+      "company": "Rubrik",
+      "title": "Product Management Intern (MSP), Summer 2027",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-11"
+    },
+    {
+      "key": "greenhouse:twitch:8934067002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I, Commerce",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-11"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5270839007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 New Grad Information Security Engineer",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-10"
+    },
+    {
+      "key": "ashby:notion:ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Product Design Intern (Summer 2027)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "New York, New York"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-10"
+    },
+    {
+      "key": "lever:palantir:eb496d6a-a960-43d3-a09b-e3843052f54e",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Denver, CO"
+      ],
+      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-10"
+    },
+    {
+      "key": "greenhouse:pinterest:8350814",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Product Design Intern (USA)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "San Francisco, CA, US",
+        "Remote, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-10"
+    },
+    {
+      "key": "greenhouse:rubrik:8350601",
+      "ats": "greenhouse",
+      "slug": "rubrik",
+      "company": "Rubrik",
+      "title": "Product Management Intern (RCV), Summer 2027",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-10"
+    },
+    {
+      "key": "greenhouse:duolingo:8933791002",
+      "ats": "greenhouse",
+      "slug": "duolingo",
+      "company": "Duolingo",
+      "title": "Product Designer, Thrive Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-09"
+    },
+    {
+      "key": "greenhouse:duolingo:8928712002",
+      "ats": "greenhouse",
+      "slug": "duolingo",
+      "company": "Duolingo",
+      "title": "AI Research Intern (PhD)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY",
+        "Pittsburgh, PA"
+      ],
+      "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:54a814d1-9a73-43d7-a266-c933ffd99ce3",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "Backend Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Palo Alto, California",
+        "Los Angeles, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:573621f6-9931-4e39-840a-1d04171be2ff",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "Data Scientist Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:860a839a-5be3-44dc-916f-eb2e71d67d72",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "Machine Learning Engineer Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:cda906dd-c02a-4bbc-b533-1636d58958ef",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "iOS Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Los Angeles, California",
+        "Palo Alto, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:dff2b57b-17a7-4ac7-b193-1ca6f143cfc2",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "Product Design Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Los Angeles, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:e2747122-5e35-4230-9d54-8d274dd0a713",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "User Experience Research Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Los Angeles, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:matchgroup:f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+      "ats": "lever",
+      "slug": "matchgroup",
+      "company": "Match Group",
+      "title": "Android Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Los Angeles, California"
+      ],
+      "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, New York"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, New York",
+        "San Francisco, California"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "greenhouse:samsara:8358786",
+      "ats": "greenhouse",
+      "slug": "samsara",
+      "company": "Samsara",
+      "title": "Software Engineering Internship - San Francisco",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco - SF9"
+      ],
+      "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "greenhouse:waymo:8350832",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "greenhouse:waymo:8351210",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "greenhouse:waymo:8358262",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:zoox:85c6aec7-8da2-445d-9c4d-812365dbce97",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "Data Science Intern [Summer 2027]",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Foster City, CA",
+        "Boston, MA"
+      ],
+      "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-06"
+    },
+    {
+      "key": "lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-05"
+    },
+    {
+      "key": "greenhouse:stripe:8332681",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Product Design Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "San Francisco, Seattle, New York City"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-05"
+    },
+    {
+      "key": "greenhouse:figma:6241542004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "lever:palantir:130ee501-bd22-4d44-b651-39581ef97743",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "lever:palantir:45e4617d-d658-4b30-8dc9-378ca84a027a",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Data Connectors",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "greenhouse:twitch:8929545002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Dev Engineer I - Security Platform",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "greenhouse:twitch:8931343002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Dev Engineer I - Security Platform",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "greenhouse:twitch:8931345002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Dev Engineer I - Security Platform",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-04"
+    },
+    {
+      "key": "greenhouse:verkada:5280545007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-02"
+    },
+    {
+      "key": "greenhouse:stripe:8328662",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, New York City, Seattle"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "greenhouse:stripe:8333074",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, New York City, Seattle"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "greenhouse:waymo:8337719",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "PhD Software Engineer Intern, Autonomy Software [Summer 2027]",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "lever:zoox:88f6cb68-1534-44af-80db-10e43c203520",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-30"
+    },
+    {
+      "key": "greenhouse:figma:6238015004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "PhD Intern, Security Engineer (2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-29"
+    },
+    {
+      "key": "greenhouse:twitch:8917377002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I - Engagement Growth",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-26"
+    },
+    {
+      "key": "greenhouse:waymo:8304574",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-24"
+    },
+    {
+      "key": "greenhouse:mongodb:8209134",
+      "ats": "greenhouse",
+      "slug": "mongodb",
+      "company": "MongoDB",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Austin",
+        "New York City",
+        "San Francisco"
+      ],
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-23"
+    },
+    {
+      "key": "greenhouse:waymo:8287385",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-23"
+    },
+    {
+      "key": "lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-22"
+    },
+    {
+      "key": "lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-22"
+    },
+    {
+      "key": "greenhouse:twitch:8886605002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-22"
+    },
+    {
+      "key": "greenhouse:twitch:8886748002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-22"
+    },
+    {
+      "key": "greenhouse:waymo:8306841",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-22"
+    },
+    {
+      "key": "greenhouse:affirm:8039471003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "Analyst, Early Career (Full Stack)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "New York, New York, United States",
+        "San Francisco, California, United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-21"
+    },
+    {
+      "key": "greenhouse:twitch:8906750002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I - Engagement Growth",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-21"
+    },
+    {
+      "key": "lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, New Grad - Query Engines",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-19"
+    },
+    {
+      "key": "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Query Engines",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-19"
+    },
+    {
+      "key": "greenhouse:scaleai:4735665005",
+      "ats": "greenhouse",
+      "slug": "scaleai",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-19"
+    },
+    {
+      "key": "greenhouse:waymo:8283558",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-19"
+    },
+    {
+      "key": "greenhouse:waymo:8292367",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8292367",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-19"
+    },
+    {
+      "key": "greenhouse:spacex:8893406002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Infrastructure",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Starbase, TX"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-16"
+    },
+    {
+      "key": "greenhouse:affirm:8017340003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Remote US"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-15"
+    },
+    {
+      "key": "greenhouse:duolingo:8888848002",
+      "ats": "greenhouse",
+      "slug": "duolingo",
+      "company": "Duolingo",
+      "title": "Data Scientist, Intern (PhD)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY",
+        "Pittsburgh, PA"
+      ],
+      "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-15"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5265127007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "Winter 2027 Research Engineer Co-op",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Santa Ana, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-14"
+    },
+    {
+      "key": "greenhouse:point72:8885299002",
+      "ats": "greenhouse",
+      "slug": "point72",
+      "company": "Point72",
+      "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-14"
+    },
+    {
+      "key": "greenhouse:point72:8885733002",
+      "ats": "greenhouse",
+      "slug": "point72",
+      "company": "Point72",
+      "title": "2027 Summer Internship – Software Engineer",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-14"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5265088007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Early Career Associate Product Designer",
+      "level": "newgrad",
+      "category": "product",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-13"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5265097007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Product Designer Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-13"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5265158007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Firmware Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-13"
+    },
+    {
+      "key": "greenhouse:figma:6219995004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "PhD Intern, Software Engineer - Graphics (2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-13"
+    },
+    {
+      "key": "greenhouse:waymo:8279620",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-13"
+    },
+    {
+      "key": "ashby:hex:f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+      "ats": "ashby",
+      "slug": "hex",
+      "company": "Hex",
+      "title": "AI Engineer Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco"
+      ],
+      "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-12"
+    },
+    {
+      "key": "greenhouse:affirm:8011375003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "IT Engineer Intern (Early Careers Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-09"
+    },
+    {
+      "key": "greenhouse:coinbase:8175510",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Forward Deployed Engineer Intern (HR Technology)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Hybrid - New York, NY"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-09"
+    },
+    {
+      "key": "greenhouse:databricks:8787352002",
+      "ats": "greenhouse",
+      "slug": "databricks",
+      "company": "Databricks",
+      "title": "Product Design Intern (2027 Start)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "San Francisco, California",
+        "Seattle, Washington"
+      ],
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-09"
+    },
+    {
+      "key": "greenhouse:databricks:8843577002",
+      "ats": "greenhouse",
+      "slug": "databricks",
+      "company": "Databricks",
+      "title": "Product Design New Grad (2027 Start)",
+      "level": "newgrad",
+      "category": "product",
+      "locations": [
+        "San Francisco, California",
+        "Seattle, Washington"
+      ],
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-09"
+    },
+    {
+      "key": "greenhouse:doordashusa:8263774",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:imc:4962456101",
+      "ats": "greenhouse",
+      "slug": "imc",
+      "company": "IMC Trading",
+      "title": "Machine Learning Engineer Intern - Summer 2027",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, United States"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:roblox:8242619",
+      "ats": "greenhouse",
+      "slug": "roblox",
+      "company": "Roblox",
+      "title": "[2027] Data Scientist - PhD Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Mateo, CA, United States"
+      ],
+      "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:roblox:8242621",
+      "ats": "greenhouse",
+      "slug": "roblox",
+      "company": "Roblox",
+      "title": "[2027] Applied Scientist - PhD Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Mateo, CA, United States"
+      ],
+      "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:twitch:8879673002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I - Community Growth",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:waymo:8262154",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-08"
+    },
+    {
+      "key": "greenhouse:faire:8870975002",
+      "ats": "greenhouse",
+      "slug": "faire",
+      "company": "Faire",
+      "title": "Applied AI/ML Scientist, Intern - Winter 2027",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-06"
+    },
+    {
+      "key": "greenhouse:lyft:8817974002",
+      "ats": "greenhouse",
+      "slug": "lyft",
+      "company": "Lyft",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-06"
+    },
+    {
+      "key": "greenhouse:figma:6207801004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "PhD Intern, AI Applied Scientist (2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-05"
+    },
+    {
+      "key": "greenhouse:waymo:8257159",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-05"
+    },
+    {
+      "key": "greenhouse:waymo:8257205",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-05"
+    },
+    {
+      "key": "greenhouse:affirm:8011590003",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "company": "Affirm",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-02"
+    },
+    {
+      "key": "greenhouse:pinterest:7838577",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA, US",
+        "Remote, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:7838591",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "University Grad Software Engineer 2027 (USA)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA, US",
+        "Remote, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8138090",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Master's Machine Learning Internship 2027 (USA)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8138097",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Master's Data Science Internship 2027 (USA)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140140",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "PhD Machine Learning Internship 2027 (USA)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140169",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "PhD Data Science Internship 2027 (USA)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140217",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "UX Quantitative Research Intern (USA)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Remote, US",
+        "San Francisco, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140219",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140363",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "PhD University Grad Machine Learning Engineer (USA)",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:pinterest:8140389",
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, US",
+        "Palo Alto, CA, US",
+        "Seattle, WA, US",
+        "New York, NY, US"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:stripe:8194283",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "PhD Data Scientist, Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:stripe:8194291",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Data Analyst, Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:waymo:8243556",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-10-01"
+    },
+    {
+      "key": "greenhouse:imc:4796143101",
+      "ats": "greenhouse",
+      "slug": "imc",
+      "company": "IMC Trading",
+      "title": "Software Engineer, Early Career",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-30"
+    },
+    {
+      "key": "greenhouse:waymo:8240198",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-30"
+    },
+    {
+      "key": "greenhouse:spacex:8854394002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starfall)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-29"
+    },
+    {
+      "key": "greenhouse:waymo:8234876",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Planner Machine Learning",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-29"
+    },
+    {
+      "key": "greenhouse:lyft:8843341002",
+      "ats": "greenhouse",
+      "slug": "lyft",
+      "company": "Lyft",
+      "title": "Applied Scientist Intern, PhD (Summer 2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-28"
+    },
+    {
+      "key": "greenhouse:waymo:8237997",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-28"
+    },
+    {
+      "key": "greenhouse:doordashusa:8233953",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (PhD) - Summer 2027",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "New York City, NY",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-25"
+    },
+    {
+      "key": "greenhouse:waymo:8227411",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-25"
+    },
+    {
+      "key": "greenhouse:waymo:8233746",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-25"
+    },
+    {
+      "key": "greenhouse:waymo:8234161",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-25"
+    },
+    {
+      "key": "greenhouse:doordashusa:8204111",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "New York City, NY",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "ashby:notion:2b587e66-deac-421a-a824-9415ba78b5a7",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Software Engineer Intern, Mobile (Winter 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California",
+        "New York, New York"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "ats": "ashby",
+      "slug": "ramp",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Frontend",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY (HQ)"
+      ],
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9",
+      "ats": "ashby",
+      "slug": "ramp",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, iOS",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY (HQ)"
+      ],
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "ats": "ashby",
+      "slug": "ramp",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Android",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY (HQ)"
+      ],
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "greenhouse:waymo:8227640",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist, Foundation Models",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-24"
+    },
+    {
+      "key": "greenhouse:figma:6178851004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "Data Engineer Intern (2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-23"
+    },
+    {
+      "key": "greenhouse:imc:4975945101",
+      "ats": "greenhouse",
+      "slug": "imc",
+      "company": "IMC Trading",
+      "title": "Hardware Machine Learning PhD Research Internship",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-23"
+    },
+    {
+      "key": "greenhouse:scaleai:4736426005",
+      "ats": "greenhouse",
+      "slug": "scaleai",
+      "company": "Scale AI",
+      "title": "Software Engineer, Public Sector - New Grad",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-23"
+    },
+    {
+      "key": "greenhouse:waymo:8224729",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Mountain View, California"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-23"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5246141007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Early Career Firmware Engineer",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-22"
+    },
+    {
+      "key": "greenhouse:jumptrading:8209424",
+      "ats": "greenhouse",
+      "slug": "jumptrading",
+      "company": "Jump Trading",
+      "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "New York"
+      ],
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-22"
+    },
+    {
+      "key": "greenhouse:waymo:8221956",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Data Science",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA",
+        "San Francisco, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-22"
+    },
+    {
+      "key": "greenhouse:waymo:8223735",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-22"
+    },
+    {
+      "key": "greenhouse:figma:6200626004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "PhD Intern, Data Science (2027)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-21"
+    },
+    {
+      "key": "greenhouse:waymo:8221795",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-21"
+    },
+    {
+      "key": "greenhouse:waymo:8221851",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-21"
+    },
+    {
+      "key": "greenhouse:stripe:8212508",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Software Engineer, Early Career — Immediate Start",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, Seattle, New York"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-17"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5236563007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "Winter 2027 Software Engineer Co-op",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Quincy, Massachusetts, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-15"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5239083007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Flight Software Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-15"
+    },
+    {
+      "key": "ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "ats": "ashby",
+      "slug": "ramp",
+      "company": "Ramp",
+      "title": "Applied Scientist Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY (HQ)"
+      ],
+      "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-15"
+    },
+    {
+      "key": "greenhouse:doordashusa:8171041",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "Los Angeles, CA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-14"
+    },
+    {
+      "key": "greenhouse:figma:6143238004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-14"
+    },
+    {
+      "key": "greenhouse:figma:6180005004",
+      "ats": "greenhouse",
+      "slug": "figma",
+      "company": "Figma",
+      "title": "Product Design Intern (2027)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-14"
+    },
+    {
+      "key": "greenhouse:waymo:8197899",
+      "ats": "greenhouse",
+      "slug": "waymo",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-14"
+    },
+    {
+      "key": "greenhouse:lyft:8767723002",
+      "ats": "greenhouse",
+      "slug": "lyft",
+      "company": "Lyft",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-11"
+    },
+    {
+      "key": "greenhouse:lyft:8767726002",
+      "ats": "greenhouse",
+      "slug": "lyft",
+      "company": "Lyft",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-11"
+    },
+    {
+      "key": "greenhouse:lyft:8796124002",
+      "ats": "greenhouse",
+      "slug": "lyft",
+      "company": "Lyft",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York, NY"
+      ],
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-11"
+    },
+    {
+      "key": "greenhouse:spacex:8802882002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Security Software (Starshield)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-11"
+    },
+    {
+      "key": "greenhouse:spacex:8802897002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Security Software (Starshield)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-11"
+    },
+    {
+      "key": "greenhouse:doordashusa:8188161",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Product Design, Entry-Level (2027 start)",
+      "level": "newgrad",
+      "category": "product",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8188161",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-10"
+    },
+    {
+      "key": "ashby:hex:45022740-b0ca-4a54-a98b-b90f9b4a9a30",
+      "ats": "ashby",
+      "slug": "hex",
+      "company": "Hex",
+      "title": "Product Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco"
+      ],
+      "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-09"
+    },
+    {
+      "key": "greenhouse:coinbase:8168315",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Software Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Hybrid - San Francisco, CA"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:coinbase:8168322",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Associate Product Manager Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Hybrid - San Francisco, CA"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:coinbase:8175339",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Product Design Intern",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Hybrid - San Francisco, CA"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:coinbase:8175441",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Machine Learning Engineer Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Hybrid - San Francisco, CA"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:coinbase:8175471",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Analytics Engineer Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Hybrid - New York, NY"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:spacex:8743362002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-08"
+    },
+    {
+      "key": "greenhouse:doordashusa:8163709",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Los Angeles, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-04"
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "ats": "greenhouse",
+      "slug": "scaleai",
+      "company": "Scale AI",
+      "title": "Software Engineer - New Grad",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-04"
+    },
+    {
+      "key": "greenhouse:scaleai:4730845005",
+      "ats": "greenhouse",
+      "slug": "scaleai",
+      "company": "Scale AI",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-04"
+    },
+    {
+      "key": "greenhouse:doordashusa:8176863",
+      "ats": "greenhouse",
+      "slug": "doordashusa",
+      "company": "DoorDash",
+      "title": "Product Design, Intern (Summer 2027)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-03"
+    },
+    {
+      "key": "ashby:snowflake:1bad12df-f443-426f-9d09-e96fc780d698",
+      "ats": "ashby",
+      "slug": "snowflake",
+      "company": "Snowflake",
+      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "level": "newgrad",
+      "category": "data",
+      "locations": [
+        "US-WA-Bellevue"
+      ],
+      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-03"
+    },
+    {
+      "key": "greenhouse:andurilindustries:5228868007",
+      "ats": "greenhouse",
+      "slug": "andurilindustries",
+      "company": "Anduril",
+      "title": "2027 Early Career Flight Software Engineer",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Costa Mesa, California, United States"
+      ],
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-09-02"
+    },
+    {
+      "key": "lever:palantir:701a9307-0619-45d3-b077-cabe9897cd12",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Honolulu, HI"
+      ],
+      "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-31"
+    },
+    {
+      "key": "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00",
+      "ats": "ashby",
+      "slug": "sierra",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-31"
+    },
+    {
+      "key": "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+      "ats": "ashby",
+      "slug": "sierra",
+      "company": "Sierra",
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-31"
+    },
+    {
+      "key": "greenhouse:stripe:8128744",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, Seattle, New York"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-31"
+    },
+    {
+      "key": "greenhouse:stripe:8128745",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, Seattle, New York City"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-31"
+    },
+    {
+      "key": "greenhouse:imc:4842595101",
+      "ats": "greenhouse",
+      "slug": "imc",
+      "company": "IMC Trading",
+      "title": "Quant Performance Engineer Intern - Summer 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-27"
+    },
+    {
+      "key": "greenhouse:verkada:5210813007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Backend Software Engineering Intern 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-25"
+    },
+    {
+      "key": "greenhouse:verkada:5210942007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Frontend Software Engineering Intern 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-25"
+    },
+    {
+      "key": "greenhouse:verkada:5211595007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Embedded Software Engineering Intern 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-25"
+    },
+    {
+      "key": "greenhouse:verkada:5213881007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-25"
+    },
+    {
+      "key": "greenhouse:verkada:5219131007",
+      "ats": "greenhouse",
+      "slug": "verkada",
+      "company": "Verkada",
+      "title": "Mobile Software Engineering Intern 2027",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA United States"
+      ],
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-25"
+    },
+    {
+      "key": "greenhouse:spacex:8724316002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-19"
+    },
+    {
+      "key": "greenhouse:spacex:8729121002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Starbase, TX"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-19"
+    },
+    {
+      "key": "greenhouse:spacex:8730567002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Application Software)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-19"
+    },
+    {
+      "key": "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California",
+        "New York, New York"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "ashby:notion:e32799d2-8ef8-4803-8189-c72514afa816",
+      "ats": "ashby",
+      "slug": "notion",
+      "company": "Notion",
+      "title": "Software Engineer, New Grad (Dec 2026)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696058002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696080002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696097002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696143002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696156002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:spacex:8696158002",
+      "ats": "greenhouse",
+      "slug": "spacex",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:twitch:8700578002",
+      "ats": "greenhouse",
+      "slug": "twitch",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-14"
+    },
+    {
+      "key": "greenhouse:roblox:8072244",
+      "ats": "greenhouse",
+      "slug": "roblox",
+      "company": "Roblox",
+      "title": "[2027] Software Engineer, Early Career",
+      "level": "newgrad",
+      "category": "swe",
+      "locations": [
+        "San Mateo, CA, United States"
+      ],
+      "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-08-05"
+    },
+    {
+      "key": "lever:palantir:9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+      "ats": "lever",
+      "slug": "palantir",
+      "company": "Palantir",
+      "title": "Product Designer, Internship - US Government",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-07-31"
+    },
+    {
+      "key": "greenhouse:virtu:8657500002",
+      "ats": "greenhouse",
+      "slug": "virtu",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Frontend Engineer (UI)",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "New York"
+      ],
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-07-29"
+    },
+    {
+      "key": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+      "ats": "ashby",
+      "slug": "modal",
+      "company": "Modal",
+      "title": "ML Research Intern",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "New York",
+        "San Francisco"
+      ],
+      "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-07-28"
+    }
+  ]
+}
