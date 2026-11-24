@@ -1,6 +1,21 @@
 {
   "listings": [
     {
+      "key": "greenhouse:rubrik:8412766",
+      "ats": "greenhouse",
+      "slug": "rubrik",
+      "company": "Rubrik",
+      "title": "Product Management Intern (MSP), Winter 2027",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-24"
+    },
+    {
       "key": "greenhouse:affirm:8201469003",
       "ats": "greenhouse",
       "slug": "affirm",
@@ -285,6 +300,21 @@
       "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002",
       "firstSeen": "2026-11-24",
       "posted": "2026-11-09"
+    },
+    {
+      "key": "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "firstSeen": "2026-11-24",
+      "posted": "2026-11-07"
     },
     {
       "key": "greenhouse:duolingo:8928712002",
@@ -2062,21 +2092,6 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
       "firstSeen": "2026-11-24",
       "posted": "2026-09-21"
-    },
-    {
-      "key": "greenhouse:stripe:8212508",
-      "ats": "greenhouse",
-      "slug": "stripe",
-      "company": "Stripe",
-      "title": "Software Engineer, Early Career — Immediate Start",
-      "level": "newgrad",
-      "category": "swe",
-      "locations": [
-        "San Francisco, Seattle, New York"
-      ],
-      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "firstSeen": "2026-11-24",
-      "posted": "2026-09-17"
     },
     {
       "key": "greenhouse:andurilindustries:5236563007",

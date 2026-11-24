@@ -12,12 +12,12 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 - Roles drop off once the company closes them or after 120 days
 
 <!-- LISTINGS:START -->
-**173** open roles at **34** companies (tracking 83) · last updated **November 24, 2026**
+**174** open roles at **34** companies (tracking 83) · last updated **November 24, 2026**
 
 | | Software Engineering | Data, ML & AI | Product & Design |
 |---|---|---|---|
-| 🎓 **Internships** | [54 roles](#internships-software-engineering) | [60 roles](#internships-data-science-ml--ai) | [16 roles](#internships-product--design) |
-| 🚀 **New Grad & Entry Level** | [34 roles](#new-grad--entry-level-software-engineering) | [6 roles](#new-grad--entry-level-data-science-ml--ai) | [3 roles](#new-grad--entry-level-product--design) |
+| 🎓 **Internships** | [54 roles](#internships-software-engineering) | [61 roles](#internships-data-science-ml--ai) | [17 roles](#internships-product--design) |
+| 🚀 **New Grad & Entry Level** | [33 roles](#new-grad--entry-level-software-engineering) | [6 roles](#new-grad--entry-level-data-science-ml--ai) | [3 roles](#new-grad--entry-level-product--design) |
 
 ## Internships: Software Engineering
 
@@ -87,6 +87,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **Waymo** | 2027 Summer Intern, PhD, Agentic AI | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) | Nov 19 |
 | **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Nov 17 |
 | **Zoox** | Data Scientist Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) | Nov 12 |
+| **Zoox** | AI Engineering Intern, Operational Safety [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) | Nov 7 |
 | **Duolingo** | AI Research Intern (PhD) | New York, NY<br>Pittsburgh, PA | [Apply](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) | Nov 6 |
 | **Match Group** | Data Scientist Intern | San Francisco, California | [Apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) | Nov 6 |
 | **Match Group** | Machine Learning Engineer Intern | Palo Alto, California | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) | Nov 6 |
@@ -151,6 +152,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 
 | Company | Role | Location | Apply | Posted |
 |---|---|---|:---:|---|
+| **Rubrik** | Product Management Intern (MSP), Winter 2027 🆕 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Nov 24 |
 | **Zoox** | UX Designer Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) | Nov 17 |
 | **Rubrik** | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Nov 11 |
 | **Notion** | Product Design Intern (Summer 2027) | New York, New York | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | Nov 10 |
@@ -194,7 +196,6 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) | Sep 29 |
 | **Scale AI** | Software Engineer, Public Sector - New Grad | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | Sep 23 |
 | **Anduril** | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Sep 22 |
-| **Stripe** | Software Engineer, Early Career — Immediate Start | San Francisco, Seattle, New York | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | Sep 17 |
 | **SpaceX** | New Graduate Engineer, Security Software (Starshield) | Hawthorne, CA<br>Washington, DC | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | Sep 11 |
 | **SpaceX** | New Graduate Engineer, Software (Starship) | Hawthorne, CA<br>Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | Sep 8 |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA<br>New York, NY<br>San Francisco, CA<br>+2 more | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | Sep 4 |
