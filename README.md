@@ -12,17 +12,18 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 - Roles drop off once the company closes them or after 120 days
 
 <!-- LISTINGS:START -->
-**174** open roles at **34** companies (tracking 83) · last updated **November 24, 2026**
+**176** open roles at **33** companies (tracking 83) · last updated **November 25, 2026**
 
 | | Software Engineering | Data, ML & AI | Product & Design |
 |---|---|---|---|
-| 🎓 **Internships** | [54 roles](#internships-software-engineering) | [61 roles](#internships-data-science-ml--ai) | [17 roles](#internships-product--design) |
+| 🎓 **Internships** | [55 roles](#internships-software-engineering) | [61 roles](#internships-data-science-ml--ai) | [18 roles](#internships-product--design) |
 | 🚀 **New Grad & Entry Level** | [33 roles](#new-grad--entry-level-software-engineering) | [6 roles](#new-grad--entry-level-data-science-ml--ai) | [3 roles](#new-grad--entry-level-product--design) |
 
 ## Internships: Software Engineering
 
 | Company | Role | Location | Apply | Posted |
 |---|---|---|:---:|---|
+| **Coinbase** | Security Engineer Intern 🆕 | Hybrid - New York, NY | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | Nov 25 |
 | **Airbnb** | Software Engineering Intern (BS/MS) | San Francisco, California | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | Nov 18 |
 | **Palantir** | Software Engineer, Internship - Connectivity Platform and Product | Denver, CO<br>New York, NY | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | Nov 10 |
 | **Match Group** | Backend Engineer Intern | Palo Alto, California<br>Los Angeles, California | [Apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) | Nov 6 |
@@ -84,6 +85,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 
 | Company | Role | Location | Apply | Posted |
 |---|---|---|:---:|---|
+| **Zoox** | Supply Chain AI Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8) | Nov 20 |
 | **Waymo** | 2027 Summer Intern, PhD, Agentic AI | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) | Nov 19 |
 | **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Nov 17 |
 | **Zoox** | Data Scientist Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) | Nov 12 |
@@ -144,7 +146,6 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | San Francisco, CA<br>New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | Sep 11 |
 | **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) | Sep 8 |
 | **Coinbase** | Analytics Engineer Intern | Hybrid - New York, NY | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Sep 8 |
-| **Modal** | ML Research Intern | New York<br>San Francisco | [Apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | Jul 28 |
 
 [⬆ Back to top](#tech-internships--new-grad-roles-2027)
 
@@ -153,6 +154,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | Company | Role | Location | Apply | Posted |
 |---|---|---|:---:|---|
 | **Rubrik** | Product Management Intern (MSP), Winter 2027 🆕 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Nov 24 |
+| **Snowflake** | Product Management Intern (Summer 2027) 🆕 | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | Nov 24 |
 | **Zoox** | UX Designer Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) | Nov 17 |
 | **Rubrik** | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Nov 11 |
 | **Notion** | Product Design Intern (Summer 2027) | New York, New York | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | Nov 10 |
@@ -178,7 +180,6 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 |---|---|---|:---:|---|
 | **Affirm** | Software Engineer I, Backend (Streaming Infra) | Remote US | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Nov 21 |
 | **Twitch** | Software Engineer I, Commerce | Seattle, WA<br>San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | Nov 18 |
-| **Twitch** | Software Engineer I, Payments | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8943553002) | Nov 13 |
 | **Affirm** | Software Engineer I, Backend (Continuous Delivery) | Remote US | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Nov 12 |
 | **SpaceX** | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002) | Nov 12 |
 | **Anduril** | 2027 New Grad Information Security Engineer | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) | Nov 10 |
@@ -208,6 +209,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **SpaceX** | New Graduate Engineer, Software (Application Software) | Hawthorne, CA | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | Aug 19 |
 | **Notion** | Software Engineer, New Grad (Dec 2026) | San Francisco, California | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | Aug 14 |
 | **SpaceX** | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA<br>Palo Alto, CA<br>Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | Aug 14 |
+| **Twitch** | Software Engineer I, Payments | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) | Aug 14 |
 | **Roblox** | [2027] Software Engineer, Early Career | San Mateo, CA, United States | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Aug 5 |
 
 [⬆ Back to top](#tech-internships--new-grad-roles-2027)

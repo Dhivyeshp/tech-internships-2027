@@ -1,6 +1,21 @@
 {
   "listings": [
     {
+      "key": "greenhouse:coinbase:8415869",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "company": "Coinbase",
+      "title": "Security Engineer Intern",
+      "level": "intern",
+      "category": "swe",
+      "locations": [
+        "Hybrid - New York, NY"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+      "firstSeen": "2026-11-25",
+      "posted": "2026-11-25"
+    },
+    {
       "key": "greenhouse:rubrik:8412766",
       "ats": "greenhouse",
       "slug": "rubrik",
@@ -13,6 +28,21 @@
       ],
       "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
       "firstSeen": "2026-11-24",
+      "posted": "2026-11-24"
+    },
+    {
+      "key": "ashby:snowflake:322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+      "ats": "ashby",
+      "slug": "snowflake",
+      "company": "Snowflake",
+      "title": "Product Management Intern (Summer 2027)",
+      "level": "intern",
+      "category": "product",
+      "locations": [
+        "US-CA-Menlo Park"
+      ],
+      "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+      "firstSeen": "2026-11-25",
       "posted": "2026-11-24"
     },
     {
@@ -29,6 +59,21 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
       "firstSeen": "2026-11-24",
       "posted": "2026-11-21"
+    },
+    {
+      "key": "lever:zoox:1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+      "ats": "lever",
+      "slug": "zoox",
+      "company": "Zoox",
+      "title": "Supply Chain AI Intern [Summer 2027]",
+      "level": "intern",
+      "category": "data",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+      "firstSeen": "2026-11-25",
+      "posted": "2026-11-20"
     },
     {
       "key": "greenhouse:waymo:8401116",
@@ -119,21 +164,6 @@
       "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
       "firstSeen": "2026-11-24",
       "posted": "2026-11-16"
-    },
-    {
-      "key": "greenhouse:twitch:8943553002",
-      "ats": "greenhouse",
-      "slug": "twitch",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "level": "newgrad",
-      "category": "swe",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
-      "firstSeen": "2026-11-24",
-      "posted": "2026-11-13"
     },
     {
       "key": "greenhouse:affirm:8181183003",
@@ -2887,22 +2917,6 @@
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "firstSeen": "2026-11-24",
       "posted": "2026-07-29"
-    },
-    {
-      "key": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-      "ats": "ashby",
-      "slug": "modal",
-      "company": "Modal",
-      "title": "ML Research Intern",
-      "level": "intern",
-      "category": "data",
-      "locations": [
-        "New York",
-        "San Francisco"
-      ],
-      "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-      "firstSeen": "2026-11-24",
-      "posted": "2026-07-28"
     }
   ]
 }
