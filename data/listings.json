@@ -1109,21 +1109,6 @@
       "posted": "2026-10-15"
     },
     {
-      "key": "greenhouse:andurilindustries:5265127007",
-      "ats": "greenhouse",
-      "slug": "andurilindustries",
-      "company": "Anduril",
-      "title": "Winter 2027 Research Engineer Co-op",
-      "level": "intern",
-      "category": "data",
-      "locations": [
-        "Santa Ana, California, United States"
-      ],
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-      "firstSeen": "2026-11-24",
-      "posted": "2026-10-14"
-    },
-    {
       "key": "greenhouse:point72:8885299002",
       "ats": "greenhouse",
       "slug": "point72",
@@ -2902,21 +2887,6 @@
       "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
       "firstSeen": "2026-11-24",
       "posted": "2026-07-31"
-    },
-    {
-      "key": "greenhouse:virtu:8657500002",
-      "ats": "greenhouse",
-      "slug": "virtu",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Frontend Engineer (UI)",
-      "level": "intern",
-      "category": "swe",
-      "locations": [
-        "New York"
-      ],
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-      "firstSeen": "2026-11-24",
-      "posted": "2026-07-29"
     }
   ]
 }

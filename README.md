@@ -12,11 +12,11 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 - Roles drop off once the company closes them or after 120 days
 
 <!-- LISTINGS:START -->
-**176** open roles at **33** companies (tracking 83) · last updated **November 25, 2026**
+**174** open roles at **32** companies (tracking 83) · last updated **November 26, 2026**
 
 | | Software Engineering | Data, ML & AI | Product & Design |
 |---|---|---|---|
-| 🎓 **Internships** | [55 roles](#internships-software-engineering) | [61 roles](#internships-data-science-ml--ai) | [18 roles](#internships-product--design) |
+| 🎓 **Internships** | [54 roles](#internships-software-engineering) | [60 roles](#internships-data-science-ml--ai) | [18 roles](#internships-product--design) |
 | 🚀 **New Grad & Entry Level** | [33 roles](#new-grad--entry-level-software-engineering) | [6 roles](#new-grad--entry-level-data-science-ml--ai) | [3 roles](#new-grad--entry-level-product--design) |
 
 ## Internships: Software Engineering
@@ -77,7 +77,6 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **Verkada** | Security Software Engineering Intern 2027 | San Mateo, CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | Aug 25 |
 | **Verkada** | Mobile Software Engineering Intern 2027 | San Mateo, CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | Aug 25 |
 | **Notion** | Software Engineer Intern (Summer 2027) | San Francisco, California<br>New York, New York | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | Aug 14 |
-| **Virtu Financial** | 2027 Internship - Frontend Engineer (UI) | New York | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Jul 29 |
 
 [⬆ Back to top](#tech-internships--new-grad-roles-2027)
 
@@ -107,7 +106,6 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) | Oct 19 |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Oct 19 |
 | **Duolingo** | Data Scientist, Intern (PhD) | New York, NY<br>Pittsburgh, PA | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) | Oct 15 |
-| **Anduril** | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) | Oct 14 |
 | **Point72** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | [Apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | Oct 14 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) | Oct 13 |
 | **Hex** | AI Engineer Intern | San Francisco | [Apply](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6) | Oct 12 |
