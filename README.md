@@ -12,7 +12,7 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 - Roles drop off once the company closes them or after 120 days
 
 <!-- LISTINGS:START -->
-**174** open roles at **32** companies (tracking 83) · last updated **November 26, 2026**
+**174** open roles at **32** companies (tracking 83) · last updated **November 27, 2026**
 
 | | Software Engineering | Data, ML & AI | Product & Design |
 |---|---|---|---|
@@ -151,8 +151,8 @@ Every link goes straight to the company's own application page. No sign-ups, no 
 
 | Company | Role | Location | Apply | Posted |
 |---|---|---|:---:|---|
-| **Rubrik** | Product Management Intern (MSP), Winter 2027 🆕 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Nov 24 |
-| **Snowflake** | Product Management Intern (Summer 2027) 🆕 | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | Nov 24 |
+| **Rubrik** | Product Management Intern (MSP), Winter 2027 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Nov 24 |
+| **Snowflake** | Product Management Intern (Summer 2027) | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | Nov 24 |
 | **Zoox** | UX Designer Intern [Summer 2027] | Foster City, CA | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) | Nov 17 |
 | **Rubrik** | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Nov 11 |
 | **Notion** | Product Design Intern (Summer 2027) | New York, New York | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | Nov 10 |
